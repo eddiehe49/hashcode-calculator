@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\SCNU\Study\Junior\网络与通信程序设计\网络与通信程序设计Assignments\Rider\hashfile" t="IncludeFlat">
+      <e p="hashfile" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="hashfile.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="hashfile.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Eddie\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Eddie\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_hashfile.-245536078.00" t="ExcludeRecursive" />
+  </component>
+</project>
